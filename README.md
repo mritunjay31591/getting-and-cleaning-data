@@ -29,5 +29,5 @@ Analysis R Script:	[R_analysis.R](https://github.com/mritunjay31591/getting-and-
 Tidy Data Set: [Clean Data Set](https://github.com/mritunjay31591/getting-and-cleaning-data/blob/master/dataFiles.zip)
 Github Repo:	[getting-and-cleaning-data](https://github.com/mritunjay31591/getting-and-cleaning-data.git)
 Cookbook	[CodeBook.md](https://github.com/mritunjay31591/getting-and-cleaning-data/blob/master/cookbook.md)
-README	ReadingItNow  [getting-and-cleaning-data](https://github.com/mritunjay31591/getting-and-cleaning-data.git)
+README [getting-and-cleaning-data](https://github.com/mritunjay31591/getting-and-cleaning-data/blob/master/README.md)
 ---
