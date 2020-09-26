@@ -24,7 +24,10 @@ A code book that describes the variables, the data, and any transformations or w
 
 ## Review Criteria
 ---
-Goal:	c("Analysis R Script","Tidy Data Set","Github Repo","Cookbook","README" )
-Item:	c([R_analysis.R],[Clean Data Set],[getting-and-cleaning-data],[CodeBook.md],[getting-and-cleaning-data])
-
+Goal:	Item:	Link to Item
+Analysis R Script:	[R_analysis.R](https://github.com/mritunjay31591/getting-and-cleaning-data/blob/master/R_analysis.R)
+Tidy Data Set: [Clean Data Set](https://github.com/mritunjay31591/getting-and-cleaning-data/blob/master/dataFiles.zip)
+Github Repo:	[getting-and-cleaning-data](https://github.com/mritunjay31591/getting-and-cleaning-data.git)
+Cookbook	[CodeBook.md](https://github.com/mritunjay31591/getting-and-cleaning-data/blob/master/cookbook.md)
+README [Readme.md](https://github.com/mritunjay31591/getting-and-cleaning-data/blob/master/README.md)
 ---
